@@ -1,2 +1,2 @@
 # anamod
-10-Channels data acquisition (daq) and monitoring system
+A 10-Channels data acquisition (daq) and monitoring system
